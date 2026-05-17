@@ -56,7 +56,7 @@ export default function Portfolio() {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         <Card className="col-span-1 border-primary/20 bg-card z-10 relative overflow-hidden">
           <div className="absolute top-0 right-0 p-8 opacity-5">
-            <Briefcase className="w-32 h-32" />
+            
           </div>
           <CardHeader>
             <CardTitle className="text-muted-foreground">Est. Total Value</CardTitle>
